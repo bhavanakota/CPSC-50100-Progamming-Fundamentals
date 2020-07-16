@@ -51,15 +51,12 @@ public class NumDisplay {
 					
 // 		Default statement for an incorrect number
 				default: 
-					System.out.println("wrong. Please keep values between 0 and 9. ");
-					
-					
+					System.out.println("wrong. Please keep values between 0 and 9. ");	
 		scan.close();
 		
 			}
 		
-		}
-			
+	}		
 }
 		
 		
