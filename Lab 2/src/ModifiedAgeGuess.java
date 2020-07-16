@@ -51,12 +51,11 @@ public class ModifiedAgeGuess {
 		{
 		System.out.println("Guess younger!");
 		}
-		
+
 		if (age == ageGuess)
 		{
 		System.out.println("You guessed correctly!");
 		}
-		
 		scan.close();
 		
 	}
