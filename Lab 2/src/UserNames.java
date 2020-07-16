@@ -33,8 +33,7 @@ public class UserNames {
         int low = 10;
         int high = 99;
         int result = r.nextInt(high-low) + low;
-
-        
+		
         System.out.println("Random number generated from 10 to 99: " + result);
 
 //      Prints the first four letters of the last name 
