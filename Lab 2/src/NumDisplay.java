@@ -11,7 +11,7 @@ public class NumDisplay {
 
 // 		Creating variables 
 		
-				 int value;
+		 int value;
 
 		Scanner scan = new Scanner(System.in); 
 
