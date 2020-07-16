@@ -1,7 +1,7 @@
 public class FloatEqu {
 
 	public static void main(String[] args) {
-//		Lab 2 - Exercise 5
+//	Lab 2 - Exercise 5
 //      Make a Java program called FloatEqu.java and implement the following:
 //		a) Declare a double variable and initialize it to(1.0/10) * (1.0/10)
 //			Declare another double variable and initialize it to(1.0/100)
